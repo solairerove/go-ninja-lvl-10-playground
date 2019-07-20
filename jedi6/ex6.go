@@ -6,7 +6,7 @@ import (
 
 // Ex6 tbd
 func Ex6() {
-	fmt.Println("\nEx6()")
+	fmt.Println("\nEx6")
 
 	c := make(chan int)
 
